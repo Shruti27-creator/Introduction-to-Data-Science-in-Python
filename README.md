@@ -1,2 +1,2 @@
 # Introduction-to-Data-Science-in-Python
-####### University of Michigan
+University of Michigan
